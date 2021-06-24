@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4b3ad9d-deb5-47c1-bad5-0d94d00218a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/conFusion/src/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/app-routing/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/comment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/dish.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/dishes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/feedback.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/leader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/leaders.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/promotion.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conFusion/src/app/shared/promotions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/conFusion/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/conFusion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/conFusion/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/conFusion/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/conFusion/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conFusion/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/conFusion/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/conFusion" />
+  </component>
+  <component name="ProjectId" id="1mc0X9OFjKDdT848MH76Eyd7Tb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Application Data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\hacker\Documents\Angular\conFusion\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="Node.js.javascript.js">
+    <configuration name="E2E Tests (conFusion-e2e)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/conFusion/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="javascript.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javascript/javascript.js" working-dir="$PROJECT_DIR$/javascript">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/conFusion/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.javascript.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b3ad9d-deb5-47c1-bad5-0d94d00218a7" name="Default Changelist" comment="" />
+      <created>1609777608760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609777608760</updated>
+      <workItem from="1609777609937" duration="13645000" />
+      <workItem from="1609869386583" duration="3996000" />
+      <workItem from="1609969377611" duration="124000" />
+      <workItem from="1609969513385" duration="3752000" />
+      <workItem from="1610058886470" duration="420000" />
+      <workItem from="1610059317393" duration="7573000" />
+      <workItem from="1610227732379" duration="5841000" />
+      <workItem from="1610309487298" duration="2867000" />
+      <workItem from="1610405796974" duration="5089000" />
+      <workItem from="1610827793717" duration="4421000" />
+      <workItem from="1611091903202" duration="596000" />
+      <workItem from="1611092511139" duration="1970000" />
+      <workItem from="1611094493736" duration="828000" />
+      <workItem from="1611603688963" duration="2679000" />
+      <workItem from="1612054722137" duration="1328000" />
+      <workItem from="1612056062194" duration="2756000" />
+      <workItem from="1612058832386" duration="3140000" />
+      <workItem from="1624564571646" duration="944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="100" width="1094" height="1207" maximized="true" key="dock-window-1" timestamp="1624564992226">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2660" y="100" width="1094" height="1207" maximized="true" key="dock-window-1/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1624564992226" />
+  </component>
+</project>
